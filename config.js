@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918695072248', 'LEGEND-PUSU', true],
+  ['6285642264375', 'LEGEND-CRUZER', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['918695072248','918695072248'] 
-global.prems = ['918695072248', '918695072248', '918695072248']
+global.mods = ['6285642264375','6285642264375'] 
+global.prems = ['6285642264375', '6285642264375', '6285642264375']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'LEGEND-PUSU'
+global.botname = 'LEGEND-CRUZER'
 global.premium = 'true'
-global.packname = 'LEGEND-PUSU🌹' 
-global.author = 'LEGEND PUSU' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/pushkar_arjn\n' 
-global.dygp = 'https://chat.whatsapp.com/FebcyxhK6fB96lTXSaAmv1'
-global.fgsc = 'https://github.com/legendaditya03/WhatsApp-Userbot' 
-global.fgyt = 'https://youtube.com/@soft_entertain'
-global.fgpyp = 'https://youtube.com/@soft_entertain'
-global.fglog = 'https://telegra.ph/file/6022a031205f1eeb1e2aa.jpg' 
+global.packname = 'LEGEND-CRUZER🌹' 
+global.author = 'CRUZER BLADE' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/areyswyam\n' 
+global.dygp = ''
+global.fgsc = '' 
+global.fgyt = ''
+global.fgpyp = ''
+global.fglog = '' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
